@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback } from "react";
 import Movie from "../components/Movie";
+// npm i gh-pages
 
 function Home() {
   const [loading, setLoading] = useState(true);
