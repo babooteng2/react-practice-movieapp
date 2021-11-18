@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-practice-movieapp/static/js/main.d201c9e7.chunk.js",
+    "main.js.map": "/react-practice-movieapp/static/js/main.d201c9e7.chunk.js.map",
+    "runtime-main.js": "/react-practice-movieapp/static/js/runtime-main.51cd2030.js",
+    "runtime-main.js.map": "/react-practice-movieapp/static/js/runtime-main.51cd2030.js.map",
+    "static/js/2.952cb296.chunk.js": "/react-practice-movieapp/static/js/2.952cb296.chunk.js",
+    "static/js/2.952cb296.chunk.js.map": "/react-practice-movieapp/static/js/2.952cb296.chunk.js.map",
+    "index.html": "/react-practice-movieapp/index.html",
+    "static/js/2.952cb296.chunk.js.LICENSE.txt": "/react-practice-movieapp/static/js/2.952cb296.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51cd2030.js",
+    "static/js/2.952cb296.chunk.js",
+    "static/js/main.d201c9e7.chunk.js"
+  ]
+}
